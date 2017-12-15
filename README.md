@@ -25,9 +25,11 @@ _To see my progress on my capstone, please visit [this repository]()._
 15. _Contribute another pull request to the Mozilla VoiceWeb repository._
 16. _Add integration testing to my Rails shopping app._
 17. _Complete one challenge on Code Fights per week._
-18. 
-19.
-20.
+18. _Connect with local Computer Science alumnae from my undergraduate college._
+19. _Make a spreadsheet of tech companies I'm interested in working for and follow them on LinkedIn._
+20. _Write some tutorials for incoming Epicodus students, with the goal of better understanding the material myself._
+
+## Action Plan
 
 ## Support and contact details
 _If you have questions, comments, or concerns, please contact [Margaret](codeberry1@gmail.com)._
